@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimovDenis.
+- 👋 Hi, I’m @SimovDenis from Belišće, Croatia.
 - 👀 I’m interested in backend programming.
 - 🌱 I’m currently learning Java in Edunova, Osijek!
 - 📫 How to reach me: dsimov19@gmail.com
