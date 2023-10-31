@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimovDenis from Belišće, Croatia.
 - 👀 I’m interested in backend programming.
-- 🌱 Finished a Java course in Edunova in Osijek and currently learning Spring Boot!
+- 🌱 Finished a Java course in Edunova, Osijek. Currently learning Spring Boot!
 - 📫 How to reach me: dsimov19@gmail.com
 
 <!---
